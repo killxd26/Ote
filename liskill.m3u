@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="7" tvg-name="C5N" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196606" group-title="ONPOWER TV VPN 🇦🇷", C5N
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1  group-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Flow_Argentina_2020.png/revision/latest/scale-to-width-down/250?cb=20211008234630&path-prefix=es" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="🇦🇷 FLOW" ,#️⃣  América
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png",5TV Corrientes  [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
