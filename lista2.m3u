@@ -188,7 +188,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuent
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="🇦🇷 FLOW" ,#️⃣ KZOEntertaiment
+#EXTINF:-1  tvg-logo="https://tienda.ladoh.com/wp-content/uploads/2019/02/kzo.png" group-title="🇦🇷 FLOW" ,#️⃣ KZOEntertaiment
 https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
