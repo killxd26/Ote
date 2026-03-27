@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png",5TV Corrientes (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png",5TV Corrientes  [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
@@ -21,7 +21,7 @@ https://tv.streaming.com.bo/atvargentina/index.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",Bayres TV 
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BeatsRadio.ar@SD" tvg-logo="https://i.imgur.com/zkNUO5p.png",Beats Radio (480p)
+#EXTINF:-1 tvg-id="BeatsRadio.ar@SD" tvg-logo="https://i.imgur.com/zkNUO5p.png",Beats Radio 
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
@@ -75,7 +75,7 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg",Canal 13 Jujuy TV 
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png",Canal 13 La Rioja (480p)
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png",Canal 13 La Rioja 
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13SanLuis.ar@SD" tvg-logo="https://i.imgur.com/NcfMC29.png",Canal 13 San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
@@ -111,7 +111,7 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png",Chaco TV  [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChilecitoTV.ar@SD" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV (480p)
+#EXTINF:-1 tvg-id="ChilecitoTV.ar@SD" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV 
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine  [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -130,8 +130,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV 
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar@SD" tvg-logo="https://i.imgur.com/CMImqQY.png",Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png",Más FM 95.9 
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png",Metro TV 
@@ -160,7 +158,7 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVNeuquen.ar@SD" tvg-logo="https://i.imgur.com/HXBLozl.png",Radio TV Neuquén  [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png",Radio Yguazú TV (480p)
+#EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png",Radio Yguazú TV 
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png",Radiocanal San Francisco 
 http://204.199.3.2/.m3u8
