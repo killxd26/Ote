@@ -38,7 +38,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1   group-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Flow_Argentina_2020.png/revision/latest/scale-to-width-down/250?cb=20211008234630&path-prefix=es"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="🇦🇷 FLOW" ,📰  A24
+#EXTINF:-1   group-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Flow_Argentina_2020.png/revision/latest/scale-to-width-down/250?cb=20211008234630&path-prefix=es"   tvg-logo="https://i.ibb.co/TxJWSBds/A24-2025-svg.png" group-title="🇦🇷 FLOW" ,📰  A24
 https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
