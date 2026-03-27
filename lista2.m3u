@@ -76,10 +76,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/Todo
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes"  ,   ESPN Premium
 https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", Bein Sports Ñ
-http://200.59.188.3:8000/play/a0cm
-
-
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
 http://190.238.43.117:8000/play/a09d/index.m3u8
 
