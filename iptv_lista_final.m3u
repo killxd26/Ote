@@ -2,5 +2,5 @@
 
 #EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefe.png" group-title="PRUEBAS", TELEFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefenew.json
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefenew.json|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://flashssh.com.ar/Server/play.php?canal=TELEFE
