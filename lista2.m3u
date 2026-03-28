@@ -95,6 +95,9 @@ https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd|Origi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Deportes", CLARO SPORTS 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg" group-title="Deportes", BEIN SPORTS Ñ 
+https://wp9xqedt.fubohd.com/espn5/mono.m3u8?token=7b0677ab99fc242c1ca97e84ce00c983d1ce79d3-ac-1774725045-1774707045
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg" group-title="Deportes",BEIN SPORTS EXTRA Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
