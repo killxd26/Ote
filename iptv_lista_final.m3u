@@ -1,0 +1,1425 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/GHD.png" group-title="𝗚𝗥𝗔𝗡 𝗛𝗘𝗥𝗠𝗔𝗡𝗢 𝗚𝗘𝗡𝗘𝗥𝗔𝗖𝗜𝗢𝗡 𝗗𝗢𝗥𝗔𝗗𝗔", GH 24HS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano.json
+https://1282-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/GHD.png" group-title="𝗚𝗥𝗔𝗡 𝗛𝗘𝗥𝗠𝗔𝗡𝗢 𝗚𝗘𝗡𝗘𝗥𝗔𝗖𝗜𝗢𝗡 𝗗𝗢𝗥𝗔𝗗𝗔", GH CAMARA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano_cam1.json
+https://1283-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1283/1283_GRAN_HERMANO_CAMARA_1_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/GHD.png" group-title="𝗚𝗥𝗔𝗡 𝗛𝗘𝗥𝗠𝗔𝗡𝗢 𝗚𝗘𝗡𝗘𝗥𝗔𝗖𝗜𝗢𝗡 𝗗𝗢𝗥𝗔𝗗𝗔", GH CAMARA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano_cam2.json
+https://1284-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1284/1284_GRAN_HERMANO_CAMARA_2_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/GHD.png" group-title="𝗚𝗥𝗔𝗡 𝗛𝗘𝗥𝗠𝗔𝗡𝗢 𝗚𝗘𝗡𝗘𝗥𝗔𝗖𝗜𝗢𝗡 𝗗𝗢𝗥𝗔𝗗𝗔", GH CAMARA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano_cam3.json
+https://1285-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1285/1285_GRAN_HERMANO_CAMARA_3_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/GHD.png" group-title="𝗚𝗥𝗔𝗡 𝗛𝗘𝗥𝗠𝗔𝗡𝗢 𝗚𝗘𝗡𝗘𝗥𝗔𝗖𝗜𝗢𝗡 𝗗𝗢𝗥𝗔𝗗𝗔", GH MULTICAMARA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano_multicamara.json
+https://1288-aws.vrioott.com/1288_GRAN_HERMANO_MOSAICO_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS1.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", SMT V SMJ
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/e2708c7c-0de4-4a5c-bb14-8e188827f19f/f82a1657-1b4a-4f6f-8d34-ccb3c7ab2d97/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS1.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", EVENTOS ZTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/eventos1_hd.json
+http://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS2.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", EVENTOS ZTV
+https://5i9kv5aur.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8|Origin=https://elverruca.tech&Referer=https://elverruca.tech/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS3.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", EVENTOS ZTV
+http://181.84.156.253:81/hls/kraten.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS4.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", Lollapalooza
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/flow_music_xp.json
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd|x-flow-origin=Android&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS4.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", Lollapalooza 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/flow_music_1.json
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd|x-flow-origin=Android&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS4.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", Lollapalooza 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/flow_music_2.json
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd|x-flow-origin=Android&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EVENTOS4.png" group-title="𝗘𝗩𝗘𝗡𝗧𝗢𝗦 𝗘𝗡 𝗩𝗜𝗩𝗢", Lollapalooza 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/flow_music_3.json
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd|x-flow-origin=Android&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/mix_tv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", MIX TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/mixtv.json
+http://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/americatv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", AMERICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/americatv.json
+http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal9.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal9.json
+http://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefe.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefenew.json
+http://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/eltrece.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", EL TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/eltrece.json
+http://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tn.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TN NOTICIAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tnnoticias.json
+http://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/a24_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/a24.json
+http://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/c5n_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/c5n.json
+http://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal26.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal26.json
+http://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cronicatv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CRONICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cronicatv.json
+http://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ln.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", LN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/ln+.json
+http://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/TVP.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tvpublica.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/iptv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", INFORMACION PERIODISTICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/infoperio.json
+http://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ENCUENTRO_NEW.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", ENCUENTRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/encuentro.json
+http://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/nettv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/nettv.json
+http://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/argentinisima.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", ARGENTINISIMA SATELITAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/argentinisima.json
+http://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canalrural.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL RURAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canalrural.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/america_tucuman.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", AMERICA TUCUMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/americatucuman.json
+http://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/elochotv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", EL OCHO TV TUCUMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefetucuman.json
+http://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal10tucuman.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 10 TUCUMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal10tucuman.json
+http://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/canal4.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 4 SAN JUAN
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/docemisiones.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 12 MISIONES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canaldocemisiones.json
+https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefecordoba.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE CORDOBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefecordoba.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/eldocecordoba.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 12 CORDOBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal12cordoba.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal10cordoba.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 10 CORDOBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal10cordoba.json
+http://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefesantafe.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE SANTA FE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefesantafe.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal9litoral.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 9 LITORAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal9litoral.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/teleferosario.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE ROSARIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/teleferosario.json
+http://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal3rosario.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 3 ROSARIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal3rosario.json
+http://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefeneuquen.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE NEUQUEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefeneuquen.json
+http://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/13maxhd.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", 13 MAX TELEVISION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/CH_13_Corrientes.json
+http://chromecast.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc/CH_13_Corrientes.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefebahiablanca.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE BAHIA BLANCA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefebahiablanca.json
+http://chromecast.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal7bahiablanca.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 7 BAHIA BLANCA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canalsietebahiablanca.json
+http://chromecast.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7_Bahia_Blanca.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telefesalta2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEFE SALTA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefesalta.json
+http://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XeKs-8yWg9k/VDHYARgGUZI/AAAAAAAAoX8/m_rbGEMELn0/s1600/logo-c7jujuy-abril2014.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 6 POSADAS
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canaldelaciudad.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL DE LA CIUDAD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canaldelaciudad.json
+https://cdn.maxvps.top/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/11.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL 11
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/6DIGITAL.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", 6 DIGITAL
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/MISIONES4.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", MISIONES 4
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/5TV.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", 5TV
+http://www.coninfo.net:1935/tvcinco/live1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/7SANTIAGO.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", 7 SANTIAGO
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/LITUS.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", LITUS TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/CANALU.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", CANAL U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/RTN.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", RTN
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telemax.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗧𝗘𝗥𝗜𝗢𝗥 𝗔𝗥𝗚𝗘𝗡𝗧𝗜𝗡𝗔", TELEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telemax.json
+hhttp://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espnpremium.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn_premium.json
+http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espnpremium.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", OPC 2 ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn_premium_sensa2.json
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tnt_sports_premium.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TNT SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tnt_sports.json
+http://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", DAZN F1
+http://cdn.robux.net.ar/Mgm/427.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/fs.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", FS PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", BEIN SPORTS XTRA Ñ
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dsports.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", Dsports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports.json
+https://1057-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dsports2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", Dsports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports2.json
+https://1063-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1063/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dsports_plus.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", Dsports plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports_plus.json
+https://1071-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dsports_fight.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", Dsports fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/dsports_fight.json
+https://1259-aws-da-bpk.vrioott.com/4e528fa5234c4fe9908bbe1403b021ca/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Referer=https://www.directvgo.com/&Cookie=http://cdn.tvar.io/MXKo30MCFK.json
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn1.json
+http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
+http://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn3.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn3.json
+http://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn4.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espnextra.json
+http://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn_5.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn5.json
+http://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn_6.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn6.json
+http://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/espn_7.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", ESPN 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn7.json
+http://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/pruebafox.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsportsnew.json
+http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/foxsports2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsport2.json
+http://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/foxsports3.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsport3.json
+http://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsports.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tycsportv2.json
+http://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/vtv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", VTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/vtv_dgo.json
+https://1245-tbx.vrioott.com/vtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/vtv_plus.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", VTV PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/vtvplus_dgo.json
+https://1246-tbx.vrioott.com/vtvplus/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/elgaragetv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", EL GARAGE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/garagetv.json
+http://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/deportv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", DEPORTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/deportv.json
+http://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/golfchannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/golftv.json
+http://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/nbatv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/nbatv.json
+http://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/americasports.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", AMERICA SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/americasport.json
+http://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/pxsports.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", PX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/pxsport.json
+http://chromecast.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 1
+https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 2
+https://ch11-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 3
+https://ch12-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 4
+https://ch10-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 5
+https://ch11-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 6
+https://ch10-04-11-tyc.vodgc.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 7
+https://ch11-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 8
+https://ch11-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 9
+https://ch10-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 10
+https://ch10-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 11
+https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tycsportsplay_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗗𝗘𝗣𝗢𝗥𝗧𝗜𝗩𝗢𝗦", TYC SPORT PLAY 12
+https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8|Origin=https://play.tycsports.com&Referer=https://play.tycsports.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/kidoo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", KIDOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/kidoo.json
+http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/zoomoo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", ZOOMOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/zoomo.json
+https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal_infantil.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", CANAL INFANTIL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal_infantil.json
+https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/plimplim_tv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", PLIM PLIM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/plimplim_tv.json
+http://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newdreamworks.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/dreamworksflow.json
+http://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newcartoonito.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cartoonito.json
+http://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cartoonnetwork.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/CartoonNetwork.json
+http://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discoverykids.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoverykids.json
+http://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/disney_channel_2026.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/disneychannel.json
+http://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/disneyjr.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", DISNEY JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/disneyjunior.json
+http://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/nick_new.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/nick.json
+http://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/nick_jr_2024.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", NICK JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/nickjunior.json
+http://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/babytv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/babytv.json
+http://chromecast.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tooncast.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", TOONCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tooncast.json
+http://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/pakapaka.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗜𝗡𝗙𝗔𝗡𝗧𝗜𝗟𝗘𝗦", PAKA PAKA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/pakapaka.json
+http://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newhbo.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbonew.json
+http://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hbo2.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbo2.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hboplus+.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hboplus.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hbomundi2.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO MUNDI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbomundi.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hbopop.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO POP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbopop.json
+http://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hboxtreme.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO XTREME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hboxtreme.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hbofamily.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbofamilyespanol.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/hbosignature.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗕𝗢", HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbosignatureespanol.json
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalcinema.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟", UNIVERSAL CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_cinema.json
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalcomedy.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟", UNIVERSAL COMEDY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_comedy.json
+https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalcrime.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟", UNIVERSAL CRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_crime.json
+https://unipluslivedash.akamaized.net/universalcrimet0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalpremiere.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟", UNIVERSAL PREMIERE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_premier.json
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalreality.png" group-title="𝗣𝗔𝗖𝗞 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟", UNIVERSAL REALITY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_reality.json
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/grjngo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", GRJNGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cine_premium.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINE PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cine_premium.json
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cine_hispano.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINE HISPANO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cine_hispano.json
+https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cine_familiar.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINE FAMILIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cine_familiar.json
+https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dpelicula.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", DPELICULA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/dpelicula.json
+https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ivc.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", IVC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/ivc.json
+https://1153-tbx.vrioott.com/ivcint/manifest.mpd|Origin=https://www.directvgo.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cine_latino.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINE LATINO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cine_latino.json
+https://1045-tbx.vrioott.com/cinelatino/manifest.mpd|Origin=https://www.directvgo.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/usanetwork.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", USA NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/usa_network_dgo.json
+https://1211-tbx.vrioott.com/usala/manifest.mpd|Origin=https://www.directvgo.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cinecanal.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINECANAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cinecanal.json
+http://chromecast.cvattv.com.ar//live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/space.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", SPACE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/space.json
+http://chromecast.cvattv.com.ar//live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tnt.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tnt.json
+http://chromecast.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tntseries.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", TNT SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tntseries.json
+http://chromecast.cvattv.com.ar//live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/warnerchannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", WARNER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/warnerchannel.json
+http://chromecast.cvattv.com.ar//live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/universalchannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", UNIVERSAL CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/universalchannel.json
+http://chromecast.cvattv.com.ar//live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/axn.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/axn.json
+http://chromecast.cvattv.com.ar//live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/sonymovies.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", SONY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/sonymovies.json
+http://chromecast.cvattv.com.ar//live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cinear.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINE AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cinear.json
+http://chromecast.cvattv.com.ar//live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/cinemax.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cinemax.json
+http://chromecast.cvattv.com.ar//live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/paramount.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", PARAMOUNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/paramount.json
+http://chromecast.cvattv.com.ar//live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/sonychannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", SONY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/sonychannel.json
+http://chromecast.cvattv.com.ar//live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/fx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", FX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/fx.json
+http://chromecast.cvattv.com.ar//live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/starchannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", STAR CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/starchannel.json
+http://chromecast.cvattv.com.ar//live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tcm.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tcm.json
+http://chromecast.cvattv.com.ar//live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/europaeuropa.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", EUROPA EUROPA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/europaeuropa.json
+http://chromecast.cvattv.com.ar//live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/studiouniversal.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/studiouniversal.json
+http://chromecast.cvattv.com.ar//live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/a&e.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", A&E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/AyE.json
+http://chromecast.cvattv.com.ar//live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/amc_series.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", AMC SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/amc_series.json
+http://chromecast.cvattv.com.ar//live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newamc.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/amc.json
+http://chromecast.cvattv.com.ar//live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/a3series.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", A3 SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/a3series.json
+http://chromecast.cvattv.com.ar//live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/comedycentral.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/comedycentral.json
+http://chromecast.cvattv.com.ar//live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/filmyarts.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗜𝗡𝗘", FILM & ARTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/filmyarts.json
+http://chromecast.cvattv.com.ar//live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/lovenature.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", LOVE NATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/love_nature.json
+https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/history.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/history.json
+http://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/history2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", HISTORY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/history2.json
+http://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discovery.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discovery.json
+http://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discoveryhh.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY HOME HEALTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoveryhomehealth.json
+http://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discoveryid.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoveryid.json
+http://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discoveryscience.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoveryscience.json
+http://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/discoveryturbo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoveryturbo.json
+http://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/DISCOVERY_THEATER.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY THEATER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoverytheater.json
+http://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/DISCOVERY_TLC.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoverytlc.json
+http://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/DISCOVERY_WORLD.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", DISCOVERY WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/discoveryworld.json
+http://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ANIMAL_PLANET.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/animalplanet.json
+http://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newnatgeo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", NATGEO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/natgeo.json
+http://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/HGTV.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hgtv2.json
+http://chromecast.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/SUN_CHANNEL.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", SUN CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/sunchannel.json
+http://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/GOURMET.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗖𝗨𝗟𝗧𝗨𝗥𝗔𝗟𝗘𝗦", GOURMET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/gourmet.json
+http://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/corazontv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CORAZON TV
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/adult_swim.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", ADULT SWIM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/canalddrama.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CANAL DE DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/newtelevisa.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canaldelasestrellas.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CANAL DE LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canaldelasestrellas.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/pasiones.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", PASIONES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/pasiones.json
+http://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tlnovelasnew.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", TLNOVELAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tlnovelas.json
+http://chromecast.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVvbx2s/NOVELISIMA.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", NOVELISIMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tntnovelas.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", TNT NOVELAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tntnovelas.json
+http://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/sonynovelas2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", SONY NOVELAS
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canala.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CANAL A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canala.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/newbravotv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", BRAVO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/bravotv.json
+http://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canalluz.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CANAL LUZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canalluz.json
+http://chromecast.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ciudadmagazine.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", CIUDAD MAGAZINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/ciudadmagazine.json
+http://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canale.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", E!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/e.json
+http://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/eurochannel.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", EURO CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/eurochannel.json
+http://chromecast.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/ewtn.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", EWTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/ewtn.json
+http://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/foodnetwork.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foodnetwork.json
+http://chromecast.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/holatv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", HOLA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/holatv.json
+http://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/kzo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", KZO ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/kzo.json
+http://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/lifetime.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/lifetime.json
+http://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/maschic.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", MAS CHIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/maschic.json
+http://chromecast.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/metro.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", METRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/metro.json
+http://chromecast.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/orbe21.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", ORBE 21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/orbe21.json
+http://chromecast.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/santamaria.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", SANTA MARIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/santamaria.json
+http://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/telemax.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗡𝗢𝗩𝗘𝗟𝗔𝗦 & 𝗩𝗔𝗥𝗜𝗘𝗗𝗔𝗗𝗘𝗦", TELEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telemax.json
+http://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", HTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/htv_sensa.json
+https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/mtv_sensa.json
+https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/160/160/0/0/14066743073439.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", ALLEGRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/allegrohd.json
+https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/605.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", FLOW MUSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/music605.json
+https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", MI MUSICA REGGAETON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/mimusicareggaeton_sensa.json
+https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/music_top.jpeg" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8|Origin=https://www.canal26.com&Referer=https://www.canal26.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/vorterix.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", VORTERIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/vorterix.json
+https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/CM_TV.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", CM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cm.json
+https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", QUIERO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/quierotv.json
+https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&x-flow-origin=Android
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/311/CH_LOGO/160/160/0/0/182616500734.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", TELEHIT PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telehit_musica.json
+https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd|Referer=https://player.sensa.com.ar/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/billboard.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗠𝗨𝗦𝗜𝗖𝗔", BILLBOARD AR
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd|Referer=https://player.sensa.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/tom.and.jerry.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Tom y Jerry
+http://cdn.robux.net.ar/getHls/110.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/soy.la.comadreja.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Soy la comadreja
+http://cdn.robux.net.ar/getHls/109.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/brandy.y.el.señor.bigotes.jpg" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Las aventuras de Brandy y el Sr. Bigotes
+http://cdn.robux.net.ar/getHls/108.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/bilymandy.jpg" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Billy y mandy
+http://cdn.robux.net.ar/getHls/107.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Scooby Doo 1969
+http://cdn.robux.net.ar/getHls/106.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/droopy.el.gran.detective.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Droopy detective privado
+http://cdn.robux.net.ar/getHls/105.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/dino.boy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Dino Boy
+http://cdn.robux.net.ar/getHls/104.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/robotboy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Robotboy
+http://cdn.robux.net.ar/getHls/103.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/futurama.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Futurama
+http://cdn.robux.net.ar/getHls/102.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/mike_lu_og.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Mike, Lu & Og
+http://cdn.robux.net.ar/getHls/101.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", Pokemon
+http://cdn.robux.net.ar/getHls/100.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/digimon_tamers.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DIGIMON TAMERS
+http://cdn.robux.net.ar/getHls/190.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/el_pajaro_loco.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL PAJARO LOCO
+http://cdn.robux.net.ar/getHls/189.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/la.vaca.y.el.pollito.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", La vaca y el pollito
+http://cdn.robux.net.ar/getHls/111.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/HERCULES.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", HERCULES
+http://cdn.robux.net.ar/Mgm/550.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL PRINCIPE DEL RAP
+http://cdn.robux.net.ar/Mgm/357.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/PATOD.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL PATO DARKWING
+http://cdn.robux.net.ar/Mgm/356.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/DOUG.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DOUG
+http://cdn.robux.net.ar/Mgm/298.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DINOSAURIOS
+http://cdn.robux.net.ar/Mgm/244.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CALA.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", CALABOZOS Y DRAGONES
+http://cdn.robux.net.ar/Mgm/103.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", BREAKING BAD
+http://cdn.robux.net.ar/Mgm/98.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/BAYBLADE.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", BLAYBLADE
+http://cdn.robux.net.ar/Mgm/85.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", ANIMANIACS
+http://cdn.robux.net.ar/Mgm/43.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL GALLO CLAUDIO
+http://cdn.robux.net.ar/Mgm/347.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/LAMASK.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LA MASCARA
+http://cdn.robux.net.ar/Mgm/595.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL COYOTE Y EL CORRECAMINOS
+http://cdn.robux.net.ar/Mgm/346.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DORAEMON
+http://cdn.robux.net.ar/Mgm/297.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", CABALLEROS DEL ZODIACO
+http://cdn.robux.net.ar/Mgm/100.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", NARUTO
+http://cdn.robux.net.ar/Mgm/702.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/looney_tunes.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LOONEY TUNES
+http://cdn.robux.net.ar/Mgm/618.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/la_pantera_rosa.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LA PANTERA ROSA
+http://cdn.robux.net.ar/Mgm/597.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/hey_arnold.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", HEY ARNOLD
+http://cdn.robux.net.ar/Mgm/551.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/garfield.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", GARFIELD
+http://cdn.robux.net.ar/Mgm/486.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/el_pajaro_loco.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL PAJARO LOCO
+http://cdn.robux.net.ar/Mgm/355.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/los_padrinos_magicos.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LOS PADRINOS MAGICOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/edyedy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", ED, EDD Y EDDY
+http://cdn.robux.net.ar/Mgm/339.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/jhonny_bravo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", JHONNY BRAVO
+http://cdn.robux.net.ar/Mgm/584.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/mr_bean.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", MR. BEAN
+http://cdn.robux.net.ar/Mgm/670.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/los_tres_chiflados.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LOS TRES CHIFLADOS
+http://cdn.robux.net.ar/Mgm/619.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/elchavodel8.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL CHAVO DEL OCHO
+http://cdn.robux.net.ar/Mgm/344.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", EL CHAPULIN COLORADO
+http://cdn.robux.net.ar/Mgm/152.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", CHESPIRITO
+http://cdn.robux.net.ar/Mgm/153.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LOS PICAPIEDRAS
+http://cdn.robux.net.ar/Mgm/625.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/dragonball.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DRAGON BALL
+http://cdn.robux.net.ar/Mgm/301.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/dragonballz.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DRAGON BALL Z
+http://cdn.robux.net.ar/Mgm/307.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/dragonballgt.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DRAGON BALL GT
+http://cdn.robux.net.ar/Mgm/303.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/dragonballsuper.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", DRAGON BALL SUPER
+http://cdn.robux.net.ar/Mgm/305.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", LOS SIMPSON
+http://cdn.robux.net.ar/Mgm/635.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/alf.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", ALF
+http://cdn.robux.net.ar/Mgm/28.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/bobesponja.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", BOB ESPONJA
+http://cdn.robux.net.ar/Mgm/96.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", CASO CERRADO
+http://cdn.robux.net.ar/Mgm/138.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://br.maxvps.top/images/tom_and_jerry.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", TOM Y JERRY
+http://cdn.robux.net.ar/Mgm/940.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/coraje.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗢𝗦 𝟮𝟰/𝟳", CORAJE EL PERRO COBARDE
+http://cdn.robux.net.ar/Mgm/223.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE MARVEL HD
+http://cdn.robux.net.ar/Mgm/177.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE MARVEL
+http://cdn.robux.net.ar/Mgm/176.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ACCION
+http://cdn.robux.net.ar/Mgm/157.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ACCION HD
+http://cdn.robux.net.ar/Mgm/158.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE TERROR
+http://cdn.robux.net.ar/Mgm/180.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ZOMBIES HD
+http://cdn.robux.net.ar/Mgm/184.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE COMEDIA 1 HD
+http://cdn.robux.net.ar/Mgm/162.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE TERROR HD
+http://cdn.robux.net.ar/Mgm/181.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE FICCION/FANTASIA 2 HD
+http://cdn.robux.net.ar/Mgm/167.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE INFANTIL SAGAS HD
+http://cdn.robux.net.ar/Mgm/172.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ACCION SAGAS HD
+http://cdn.robux.net.ar/Mgm/160.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE FICCION/FANTANSIA
+http://cdn.robux.net.ar/Mgm/165.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE INFANTIL
+http://cdn.robux.net.ar/Mgm/169.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE COMEDIA 2
+http://cdn.robux.net.ar/Mgm/163.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE INFANTIL HD
+http://cdn.robux.net.ar/Mgm/170.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE COMEDIA 2 HD
+http://cdn.robux.net.ar/Mgm/164.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE INFANTIL SAGAS
+http://cdn.robux.net.ar/Mgm/171.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ACCION SAGAS
+http://cdn.robux.net.ar/Mgm/159.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE FICCION/FANTASIA HD
+http://cdn.robux.net.ar/Mgm/168.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE COMEDIA
+http://cdn.robux.net.ar/Mgm/161.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ROMANCE HD
+http://cdn.robux.net.ar/Mgm/179.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE NAVIDEÑO HD
+http://cdn.robux.net.ar/Mgm/1059.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE FICCION/FANTASIA 2
+http://cdn.robux.net.ar/Mgm/166.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ZOMBIES
+http://cdn.robux.net.ar/Mgm/183.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE NAVIDEÑO
+http://cdn.robux.net.ar/Mgm/1058.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/imagex/CINEMA.png" group-title="𝗖𝗜𝗡𝗘 𝟮𝟰/𝟳", CINE ROMANCE
+http://cdn.robux.net.ar/Mgm/178.m3u8|User-Agent=Magma Player/10&X-App=di&X-Did=70c0dd58bcbb8737&X-Hash=4hun526HqPJXdsJnaE5SEDsXaW-XL5stNKBWhPKh8cTLByMRlikMc_80R7sXKvKqCZoiCBdMzzwD-29kZjp6cS0B7IUtmf0VwQPfzFU6iulv2I1quTFuf8v6TDT-53CEuBNNrrZ1G6WCZ1x4JQp5oaHKo9AzmbhffKYU_-TFGmq9GvlrHPfjhE3XBJf900lZK-h_gHgRJacrmEHic1aCgdsNnbbq6J1kFp8Yw2jwJhAfnwod4pAwqWHl40kclgoO9XSSnyHhk1PBOgODfxmwXMXp6npfqhi51nL8oSXByPvxVuAjaJQ4IE5ahriaTq7wNHzBJAdlou7Pp_JUsV7DDCqYGlVGEArMJ42isv7FsCV4FffLgmync8eWbMOG5oXnCQPD0IA54npO7WxgE5FuwwQTO-LQ1YSE_BqLzVorc9hO1dX39G0a8EktT3CspBi-l9dlA91DYqlAwkvronYeCOOGVy1R0puMC9URbFLmqQV_u-flMX5TWZRIVb1R8L0PKgT8lkb0rbdsNqCgppp-dQ&X-Version=10/1.0.9
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_accion.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV ACCION
+https://amg01024-amg01024c2-directtv-latam-5619.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvaccionlatam-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_drama.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV DRAMA
+https://amg01024-amg01024c16-directtv-latam-5685.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-olyfreetvdramalatam-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_estelar.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV ESTELAR
+https://amg01024-amg01024c20-directtv-latam-5621.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-olyfreetvestelarlatam-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_familia.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV FAMILIA
+https://amg01024-amg01024c26-directtv-latam-5622.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvfamilia-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_hits.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV HITS
+https://amg01024-amg01024c25-directtv-latam-5623.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvhits-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_sabermas.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV SABER MAS
+https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvsabermas-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.v2ray.com.ar/images/freetv_terror.png" group-title="𝗣𝗔𝗖𝗞 𝗙𝗥𝗘𝗘𝗧𝗩", FREETV TERROR
+https://amg01024-amg01024c22-directtv-latam-5625.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvterror-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/playboy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", PLAYBOY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/playboy.json
+http://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/sextreme.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", SEXTREME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/sextreme.json
+http://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/venus.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", VENUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/venus.json
+http://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/xxx.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗫𝗫𝗫 ", XXX
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/caracoltv.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", CARACOL TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/caracoltv.json
+https://1035-aws-da-mt.vrioott.com/bbfa63020b5743b69f1cb438ee660f65/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Cookie=http://br.maxvps.top/Dg0_t0k3ns/t0k3ns.json
+
+#EXTINF:-1 tvg-logo="http://br.maxvps.top/images/canal_rcn.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", CANAL RCN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal_rcn.json
+https://1185-aws.vrioott.com/v1/3191f1a795264734840ccabd0ca9cb6a/manifest.mpd|User-Agent=kratenapp/2.4&Origin=https://www.directvgo.com&Cookie=http://br.maxvps.top/Dg0_t0k3ns/t0k3ns.json
+
+#EXTINF:-1 tvg-logo="https://ztv.com.ar/Img2/tvciudad.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TV CIUDAD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tvciudad.json
+http://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/canal5uy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TV5 URUGUAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal5uy.json
+http://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/canal4uy.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", CANAL 4 URUGUAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal4uy.json
+http://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/CNN_ESPANOL.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", CNN EN ESPAÑOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cnnespanol.json
+http://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/BLOOMBERG.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", BLOOMBERG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/bloomberg.json
+http://chromecast.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/RAI_ITALIA.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", RAI ITALIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/rai.json
+http://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/tvchile2.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TV CHILE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tvchile.json
+http://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/TELE_SUR.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TELESUR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telesur.json
+http://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/CNN_INTERNACIONAL.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", CNN INTERNACIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/cnninternacional.json
+http://chromecast.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/bbcnews.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", BBC NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/bbc.json
+http://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/EURO_NEWS.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", EURO NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/euronews.json
+http://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/DW_CHANNEL.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", DW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/dw.json
+http://chromecast.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/TV_ESPANA.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TV ESPAÑA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tvespana.json
+http://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/TV5_MONDE.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TV5 MONDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tv5monde.json
+http://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/ANTENA3.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", ANTENA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/antena3.json
+http://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://cdn.v2ray.com.ar/images/telemundointernacional.png" group-title="𝗖𝗔𝗡𝗔𝗟𝗘𝗦 𝗧𝗩 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗖𝗜𝗢𝗡𝗔𝗟", TELEMUNDO INTERNACIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telemundointernacional.json
+http://chromecast.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
